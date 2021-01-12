@@ -16,9 +16,9 @@ we want to predict if a customer is going to cancel or not the reservation.
 - <b>Data cleanining and Feature Engineering:</b> We take care of outliers and null values. We group the variables where it is needed.
 - <b>Correlection and Association of the variables</b> We look at the releationship between the variables using Pearson correlation, Eta correlation and Cramer V association.
 - <b>Encoding of the categorical variables</b> We treat the numerical variables using the stratified mean encoding.
-- <b>Features importance<\b> We look at the importance of the feature using a recursive feature elimination with the random forest.
-- <b>Modelling Part 1 <b> We use xgboost and randomforest with the default parameters and we look at the results on the test set. 
-- <b>Modelling Part 2 <b> We tune the hyperparameters of the xgboost using first the Hyperopt package to find the most promising regions of the parameter space and then a grid search. 
+- <b>Features importance</b> We look at the importance of the feature using a recursive feature elimination with the random forest.
+- <b>Modelling Part 1 </b> We use xgboost and randomforest with the default parameters and we look at the results on the test set. 
+- <b>Modelling Part 2 </b> We tune the hyperparameters of the xgboost using first the Hyperopt package to find the most promising regions of the parameter space and then a grid search. 
 
 
 ## Possible improvements 
