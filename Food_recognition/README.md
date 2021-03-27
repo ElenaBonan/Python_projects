@@ -6,14 +6,14 @@ sashimi or spaghetti. Finally, we present some visualization techniques to inter
 <b>Target classes:</b> sashimi and spaghetti_bolognese <br>
 <b>Data source</b>: two classes of  ... <br>
 
-## Content of the Repository
+## Content of the repository
 
 - <b> Custom_functions </b> This folder contains the custom functions used for plots and a custom class used for creating the folders needed for the training. 
 - <b> Data </b> Here you can find the original data and the folders with images used for training of the models.
 - <b> Model </b> In this folder we have saved all the models trained in the notebook along with the history of the training. 
 - <b> Food_recognition.ipynb </b> This is the notebook used for training the models and explore the convolutional layers.
 
-## Structure of the Code
+## Structure of the code
 
 ### Modeling 
 - <b> First Model </b> We start implementig a simple model where the images go through some convolutional layers and then a neural network with just one hidden layer. <br>
