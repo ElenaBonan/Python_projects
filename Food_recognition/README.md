@@ -25,6 +25,6 @@ sashimi or spaghetti. Finally, we present some visualization techniques to inter
 
 ### Visualization 
 
-- <b> Visualization of intermediate activation </b> We plot a 2D image for every channel of the maps
-- <b> Visualization of the filters </b> We look at which patterns are captured by the filters
-- <b> Heatmap of the class activation </b> We look at which part of an image where more involved in the prediction of the class. 
+- <b> Visualization of intermediate activation </b> We plot a 2D image for every channel of the maps. 
+- <b> Visualization of the filters </b> We look at which patterns are captured by the filters.
+- <b> Heatmap of the class activation </b> We look at which part of an image were more involved in the prediction of the class. 
