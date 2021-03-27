@@ -1,4 +1,4 @@
-# Python_projects
+# Python_projects (2020)
 
 In this repository you can find the projects I have done in Python. More precisely:
 - <b> Hotel Booking demand </b> This notebook is about a classification problem. Indeed, I want to predict if a customer is going to cancel or not his/her hotel reservation.
