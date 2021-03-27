@@ -9,7 +9,7 @@ sashimi or spaghetti. Finally, we present some visualization techniques to inter
 ## Content of the Repository
 
 - <b> Custom_functions </b> This folder contains the custom functions used for plots and a custom class used for creating the folders needed for the training. 
-- <b> Data </b> This folder contains a folder with the original data and the folders with images used for the training of the model.
+- <b> Data </b> Here you can find the original data and the folders with images used for training of the models.
 - <b> Model </b> This folder we have saved all the models trained in the notebook along with the history of the trainng. 
 - <b> Food_recognition.ipynb </b> This is the notebook used for training the models and explore the convolutional layers.
 
